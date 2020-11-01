@@ -1,0 +1,43 @@
+.navbar-brand{
+    text-decoration: none;
+}
+.card-product{
+    width: 20rem;
+    box-shadow: 0 0 5px 1px grey;
+    margin: 15px 0;
+}
+.card-img-container{
+    height: 16rem;
+    width: 100%;
+    overflow: hidden;
+}
+.cardImg{
+    height: 100%;
+    width: 100%;
+}
+.cartBtn{
+    color: white !important;
+}
+.product-name{
+   font-weight: bold;
+}
+.price{
+    float: right;
+    font-size: 18px;
+}
+.card-footer{
+    background-color: white;
+}
+.cardImg:hover{
+    transform: scale(1.1);
+}
+.file-inp{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid gray;
+    padding: 5px 5px;
+    font-size: 20px;
+}
+.createpost-card{
+    max-width: 500px;
+}

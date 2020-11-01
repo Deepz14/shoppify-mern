@@ -1,0 +1,18 @@
+.navbar-brand{
+    text-decoration: none;
+}
+.detail-price-section{
+    padding: 40px 25px;
+    border-left: 2px solid gray;
+}
+.detail-Img{
+    width: 360px;
+    height: 340px;
+}
+.cartIcon{
+    cursor: pointer;
+    color: white;
+}
+.cartIcon:hover{
+    transform: scale(1.2);
+}
